@@ -1,4 +1,4 @@
-# TelecomX-Churn-Analysis
+# TelecomX-Evasão-Analysis
 # Telecom X - Análise de Evasão de Clientes
 
 ## Descrição do Projeto
