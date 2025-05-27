@@ -1,11 +1,11 @@
 # TelecomX-Evasão-Analysis
-# Telecom X - Análise de Evasão de Clientes
+# TelecomX - Análise de Evasão de Clientes
 
 ## Descrição do Projeto
-Este projeto é parte do **Challenge da Alura** no curso de Ciência de Dados. O objetivo é realizar uma análise de evasão de clientes (churn) para a **Telecom X**, uma empresa que enfrenta altos índices de cancelamentos. A análise visa identificar fatores que contribuem para a perda de clientes, fornecendo insights para a equipe de Data Science desenvolver modelos preditivos e estratégias de retenção.
+Este é o **Challenge da Alura - Análise de Evasão TelecomX** do curso de Ciência de Dados. O objetivo é realizar uma análise das informações para a **Telecom X**, uma empresa que enfrenta altos índices de cancelamentos. A análise visa identificar fatores que contribuem para a perda de clientes, fornecendo insights para a equipe de Data Science desenvolver modelos preditivos e estratégias de retenção.
 
 ### Desafio
-Você foi contratado como assistente de análise de dados na Telecom X para o projeto "Churn de Clientes". O desafio envolve:
+Eu fui contratado como assistente de análise de dados na TelecomX para o projeto "Churn de Clientes". O desafio envolve:
 - **Coletar e tratar dados** de um arquivo JSON (ou API, se disponível).
 - **Aplicar o processo ETL** (Extração, Transformação, Carga) para preparar os dados.
 - **Realizar uma Análise Exploratória de Dados (EDA)** com visualizações para identificar padrões.
